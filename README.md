@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Danilo Golubovic
 
 🎓 Applied Software Engineering student at the Faculty of Technical Sciences  
-💻 Interested in software development, distributed systems, and computer networks
+💻 Interested in software development, distributed systems, computer networks, and infrastructure systems
 
 ---
 
@@ -19,15 +19,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 
 ---
 
 ## 🧩 Frameworks & Tools
 
+- .NET Framework
 - WPF (Windows Presentation Foundation)
 - WCF (Windows Communication Foundation)
-- Git & GitHub / GitLab
+- TCP / UDP sockets
+- Git (GitHub, GitLab)
+- Docker (containers & images)
 - Linux (Ubuntu, Kali)
+- Virtual Machines (VirtualBox / VMware)
 - Wireshark
 
 ---
@@ -36,23 +41,39 @@
 
 - Object-Oriented Programming (OOP)
 - SOLID principles
+- Clean Architecture (basics)
+- Dependency Inversion
 - MVC architecture
 - MVVM architecture
 - Client–Server architecture
-- Microservices architecture
-- Distributed systems basics
-- TCP / UDP communication
+- Microservices architecture (concepts)
+- Distributed systems
+- Process & thread basics
+- Synchronous / asynchronous communication
+- TCP / UDP networking
+- Data persistence & file organization
 - Database design & normalization
+
+---
+
+## 🖧 Networking & Infrastructure
+
+- Computer networks fundamentals
+- Packet analysis (Wireshark)
+- Client–Server communication
+- Distributed programming basics
+- SCADA systems concepts
+- Infrastructure systems
 
 ---
 
 ## 📚 Academic Background
 
+- Software Engineering
 - Computer Networks
 - Distributed Programming
 - Databases
 - Operating Systems
-- Software Engineering
 - SCADA & Infrastructure Systems
 
 <!--
