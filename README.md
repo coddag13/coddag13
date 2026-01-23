@@ -25,15 +25,11 @@
 
 ## 🧩 Frameworks & Tools
 
-- .NET Framework
-- WPF (Windows Presentation Foundation)
-- WCF (Windows Communication Foundation)
-- TCP / UDP sockets
-- Git (GitHub, GitLab)
-- Docker (containers & images)
-- Linux (Ubuntu, Kali)
-- Virtual Machines (VirtualBox / VMware)
-- Wireshark
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+![WCF](https://img.shields.io/badge/WCF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 
 ---
 
@@ -75,6 +71,9 @@
 - Databases
 - Operating Systems
 - SCADA & Infrastructure Systems
+
+---
+
 
 <!--
 **coddag13/coddag13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
