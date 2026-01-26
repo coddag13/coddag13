@@ -45,6 +45,7 @@
 ![ModelSim](https://img.shields.io/badge/ModelSim-5C2D91?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-4B0082?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ---
 
