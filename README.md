@@ -41,6 +41,10 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Intel Quartus Prime](https://img.shields.io/badge/Intel_Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-5C2D91?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-4B0082?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge)
 
 ---
 
